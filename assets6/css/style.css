@@ -1056,7 +1056,7 @@ section {
   position: relative;
   overflow: hidden;
 }
-.team .member .social {
+.team .member .banderganchse {
   position: absolute;
   left: 0;
   bottom: -40px;
@@ -1070,16 +1070,16 @@ section {
   align-items: center;
   justify-content: center;
 }
-.team .member .social a {
+.team .member .banderganchse a {
   transition: color 0.3s;
   color: #fff;
   margin: 0 12px;
   display: inline-block;
 }
-.team .member .social a:hover {
+.team .member .banderganchse a:hover {
   color: #101130;
 }
-.team .member .social i {
+.team .member .banderganchse i {
   font-size: 18px;
   margin: 0 2px;
 }
@@ -1102,12 +1102,12 @@ section {
   line-height: 26px;
   color: #666;
 }
-.team .member:hover .social {
+.team .member:hover .banderganchse {
   bottom: 0;
   opacity: 1;
   transition: bottom ease-in-out 0.4s;
 }
-.team .member:hover .social a, .team .member:hover .social i {
+.team .member:hover .banderganchse a, .team .member:hover .banderganchse i {
   line-height: 0;
   font-size: 18px;
 }
@@ -1407,10 +1407,10 @@ section {
   padding: 0;
   color: #1e4356;
 }
-.blog .blog-author .social-links {
+.blog .blog-author .banderganchse-links {
   margin: 0 10px 10px 0;
 }
-.blog .blog-author .social-links a {
+.blog .blog-author .banderganchse-links a {
   color: rgba(30, 67, 86, 0.5);
   margin-right: 5px;
 }
@@ -1730,7 +1730,7 @@ section {
   font-family: "Roboto", sans-serif;
   color: #fff;
 }
-#footer .footer-top .social-links a {
+#footer .footer-top .banderganchse-links a {
   font-size: 18px;
   display: inline-block;
   background: #1e4356;
@@ -1744,7 +1744,7 @@ section {
   height: 36px;
   transition: 0.3s;
 }
-#footer .footer-top .social-links a:hover {
+#footer .footer-top .banderganchse-links a:hover {
   background: #101130;
   color: #fff;
   text-decoration: none;
